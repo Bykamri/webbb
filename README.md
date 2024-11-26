@@ -16,9 +16,7 @@
 1. Clone repositori
 2. Buat database dengan memakai code SQL di bawah ini
    ```
-    CREATE TABLE mahasiswa {
-        sd
-    }
+   
    ```
 3. Konfigurasi koneksi database di \`backend/config/database.php\`
 4. Jalankan server
